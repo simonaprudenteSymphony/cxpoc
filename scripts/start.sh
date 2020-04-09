@@ -14,5 +14,6 @@ $(checkDatabaseAvailable)
 
 
 #java -Djava.security.egd=file:/dev/./urandom -jar /home/webwolf/webwolf.jar --server.port=9090 --server.address=0.0.0.0
+#this script will start the project
 
 
